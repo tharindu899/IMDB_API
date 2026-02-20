@@ -1,4 +1,4 @@
-name = "imdb-api"
+name = "imdb-apiw"
 main = "src/index.js"
 compatibility_date = "2025-04-13"
 
